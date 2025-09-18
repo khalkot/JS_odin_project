@@ -13,7 +13,7 @@ age=22;
 console.log(age);
 
 const pi=3.14;
-/* pi =10; */ /* this line would resault in an error because pi is a const variable that cant modified */
+/* pi =10; */ /* this line would resault in an error because pi is a const variable that cant be modified */
 console.log(pi);
 
 console.log((3+2) - 76 * (1 + 1));
